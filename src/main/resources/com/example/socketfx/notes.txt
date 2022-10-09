@@ -1,0 +1,11 @@
+Goals:
+
+Create JavaFX interface
+Create client
+Create server
+Connect client and server to JavaFX interface individually
+Build functionality of client/server relationship into a proper UI
+Add styling
+Confirm full functionality of server and client ports to GUI based approach
+Clean up loose ends, code review everything, wrap up
+Done

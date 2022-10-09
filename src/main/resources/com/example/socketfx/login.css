@@ -1,0 +1,64 @@
+.root {
+    -fx-background-color: #d58cf5;
+    -fx-font-size: 20;
+    -fx-font-family: Georgia;
+}
+
+.title {
+    -fx-font-family: Georgia;
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+}
+
+.join {
+     -fx-border-color: #cc65f7;
+     -fx-font-family: Georgia;
+     -fx-border-width: 0px;
+     -fx-border-radius: 25px;
+     -fx-background-radius: 25px;
+     -fx-pref-column-count: 10;
+     -fx-background-color: #f5dff4;
+     -fx-padding: 15;
+}
+
+.join:pressed {
+    -fx-font-family: Georgia;
+    -fx-border-width: 3px;
+    -fx-border-radius: 25px;
+    -fx-background-radius: 25px;
+    -fx-pref-column-count: 10;
+    -fx-padding: 15;
+    -fx-focus-color: #cc65f7;
+    -fx-faint-focus-color: #cc65f7;
+}
+
+.info:pressed {
+    -fx-border-color: #cc65f7;
+    -fx-font-family: Georgia;
+    -fx-border-width: 3px;
+    -fx-border-radius: 25px;
+    -fx-background-radius: 25px;
+    -fx-pref-column-count: 10;
+    -fx-background-color: #f5dff4;
+}
+
+.info {
+    -fx-focus-color: #cc65f7;
+    -fx-faint-focus-color: #cc65f7;
+    -fx-font-family: Georgia;
+    -fx-border-width: 3px;
+    -fx-border-radius: 25px;
+    -fx-background-radius: 25px;
+    -fx-pref-column-count: 10;
+    -fx-background-color: #f5dff4;
+}
+
+.text {
+    -fx-focus-color: #cc65f7;
+    -fx-faint-focus-color: #cc65f7;
+    -fx-font-family: Georgia;
+    -fx-border-width: 3px;
+    -fx-border-radius: 25px;
+    -fx-background-radius: 25px;
+    -fx-pref-column-count: 10;
+}

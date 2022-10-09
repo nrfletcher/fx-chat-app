@@ -1,0 +1,101 @@
+.root {
+    -fx-background-color: #d58cf5;
+    -fx-font-size: 20;
+    -fx-font-family: Georgia;
+}
+
+.title {
+    -fx-font-family: Georgia;
+    -fx-font-size: 25;
+    -fx-font-weight: bold;
+}
+
+.text-field:pressed {
+    -fx-border-color: #f5dff4;
+    -fx-font-family: Georgia;
+    -fx-border-width: 3px;
+    -fx-border-radius: 25px;
+    -fx-background-radius: 25px;
+    -fx-pref-column-count: 10;
+}
+
+.text-field {
+    -fx-focus-color: #f5dff4;
+    -fx-faint-focus-color: #f5dff4;
+    -fx-font-family: Georgia;
+    -fx-border-width: 3px;
+    -fx-border-radius: 25px;
+    -fx-background-radius: 25px;
+    -fx-pref-column-count: 10;
+}
+
+.button {
+     -fx-border-color: #ffffff;
+     -fx-background-color: #ffffff;
+     -fx-font-family: Georgia;
+     -fx-border-width: 0px;
+     -fx-border-radius: 25px;
+     -fx-background-radius: 25px;
+     -fx-pref-column-count: 10;
+     -fx-focus-color: #ffffff;
+     -fx-faint-focus-color: #ffffff;
+}
+
+.button:pressed {
+    -fx-background-color: #ffffff;
+    -fx-font-family: Georgia;
+    -fx-border-width: 3px;
+    -fx-border-radius: 25px;
+    -fx-background-radius: 25px;
+    -fx-pref-column-count: 10;
+    -fx-focus-color: #ffffff;
+    -fx-faint-focus-color: #ffffff;
+}
+
+.text-flow {
+     -fx-font-family: Georgia;
+     -fx-border-width: 0px;
+     -fx-border-radius: 25px;
+     -fx-background-radius: 25px;
+     -fx-pref-column-count: 10;
+     -fx-focus-color: #94f2ee;
+     -fx-faint-focus-color: #94f2ee;
+     -fx-background-color: #94f2ee;
+}
+
+.text-flow-other {
+    -fx-font-family: Georgia;
+     -fx-border-width: 0px;
+     -fx-border-radius: 25px;
+     -fx-background-radius: 25px;
+     -fx-pref-column-count: 10;
+     -fx-focus-color: #94f2b5;
+     -fx-faint-focus-color: #94f2b5;
+     -fx-background-color: #94f2b5;
+}
+
+.scroll-pane {
+    -fx-focus-color: #cc65f7;
+    -fx-faint-focus-color: #cc65f7;
+    -fx-background-color: #ffffff;
+    -fx-background-color: #f5dff4;
+}
+
+.scroll-pane .scroll-bar:vertical {
+    -fx-background-color: transparent;
+    -fx-background-color: #ffffff;
+}
+
+.scroll-pane .scroll-bar:vertical .decrement button {
+    -fx-background-color: transparent;
+    -fx-background-radius: 0em;
+    -fx-background-color: #ffffff;
+}
+
+.scroll-pane .scroll-bar:vertical track {
+    -fx-background-color: #ffffff;
+    -fx-background-color: transparent;
+    -fx-background-radius: 0em;
+    -fx-border-radius: 2em;
+}
+

@@ -1,0 +1,87 @@
+.root {
+    -fx-background-color: #F3EBF6;
+    -fx-font-family: 'Ubuntu', sans-serif;
+}
+
+.main {
+    -fx-background-color: #FFFFFF;
+    -fx-border-width: 400px;
+    -fx-border-height: 400px;
+    -fx-border-margin: 7em auto;
+    -fx-border-radius: 1.5em;
+    -fx-box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+}
+
+.sign {
+    -fx-padding-top: 40px;
+    -fx-color: #8C55AA;
+    -fx-font-family: 'Ubuntu', sans-serif;
+    -fx-font-weight: bold;
+    -fx-font-size: 23px;
+}
+
+.un {
+    -fx-width: 76%;
+    -fx-color: rgb(38, 50, 56);
+    -fx-font-weight: 700;
+    -fx-font-size: 14px;
+    -fx-letter-spacing: 1px;
+    -fx-background: rgba(136, 126, 126, 0.04);
+    -fx-padding: 10px 20px;
+    -fx-border: none;
+    -fx-border-radius: 20px;
+    -fx-outline: none;
+    -fx-box-sizing: border-box;
+    -fx-border: 2px solid rgba(0, 0, 0, 0.02);
+    -fx-margin-bottom: 50px;
+    -fx-margin-left: 46px;
+    -fx-text-align: center;
+    -fx-margin-bottom: 27px;
+    -fx-font-family: 'Ubuntu', sans-serif;
+}
+
+form.form1 {
+    -fx-padding-top: 40px;
+}
+
+.pass {
+    -fx-width: 76%;
+    -fx-color: rgb(38, 50, 56);
+    -fx-font-weight: 700;
+    -fx-font-size: 14px;
+    -fx-letter-spacing: 1px;
+    -fx-background: rgba(136, 126, 126, 0.04);
+    -fx-padding: 10px 20px;
+    -fx-border: none;
+    -fx-border-radius: 20px;
+    -fx-outline: none;
+    -fx-box-sizing: border-box;
+    -fx-border: 2px solid rgba(0, 0, 0, 0.02);
+    -fx-margin-bottom: 50px;
+    -fx-margin-left: 46px;
+    -fx-text-align: center;
+    -fx-margin-bottom: 27px;
+    -fx-font-family: 'Ubuntu', sans-serif;
+}
+
+.un:focus, .pass:focus {
+    -fx-border: 2px solid rgba(0, 0, 0, 0.18) !important;
+
+}
+
+.submit {
+    -fx-cursor: pointer;
+    -fx-border-radius: 5em;
+    -fx-color: #fff;
+    -fx-background: linear-gradient(to right, #9C27B0, #E040FB);
+    -fx-border: 0;
+    -fx-padding-left: 40px;
+    -fx-padding-right: 40px;
+    -fx-padding-bottom: 10px;
+    -fx-padding-top: 10px;
+    -fx-font-family: 'Ubuntu', sans-serif;
+    -fx-margin-left: 35%;
+    -fx-font-size: 13px;
+    -fx-box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+}
+

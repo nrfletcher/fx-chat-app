@@ -4,6 +4,7 @@
 * ### Applications
 * ### Controllers
 * ### Handlers
+---
 ## Applications
 ### We have two applications which are executable and run the GUI
 * The client application which creates our main window for users

@@ -1,4 +1,5 @@
 # JavaFX chat app using socket programming
+
 ---
 ## Program layout
 * ### Applications
@@ -6,6 +7,7 @@
 * ### Handlers
 ---
 ## Applications
+
 ### We have two applications which are executable and run the GUI
 * The client application which creates our main window for users
 * A GUI based server creator that lets us choose a port dynamically

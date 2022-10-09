@@ -1,6 +1,5 @@
 # JavaFX chat app using socket programming
 
----
 ## Program layout
 * ### Applications
 * ### Controllers

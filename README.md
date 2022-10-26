@@ -1,7 +1,7 @@
 # Overview
 * This is an application based program using the JavaFX GUI library which creates two programs:
-*1. A server application for hosting the chat application using a ServerSocket implementation
-*2. A client application for a user to interact with the server via a GUI-based client Socket implementation
+* 1. A server application for hosting the chat application using a ServerSocket implementation
+* 2. A client application for a user to interact with the server via a GUI-based client Socket implementation
 
 ## Program layout
 * ### Applications
